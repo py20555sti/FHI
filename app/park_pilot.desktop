@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=ParkPilot
+Exec=/home/sti/Programming/park_pilot/park_pilot.py
+#Icon=/path/to/icon
+Terminal=false
+Type=Application
